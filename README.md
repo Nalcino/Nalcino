@@ -7,7 +7,7 @@ Saiba que você é muito bem-vindo aqui. 😊
 
 ## Sobre Mim
   
-Atualmente, sou participante do Curso Proa Profissões e estou em uma jornada para me tornar um profissional de destaque na área de tecnologia. <br/> Minha paixão por inovação me leva a explorar constantemente novas linguagens de programação e ferramentas tecnológicas.<br/> Já empreendi, viajei por mais de 20 estados brasileiros e amo desafios, seja na criação de soluções eficientes ou no aprendizado de algo novo.<br/> Além disso, sou apaixonado por música, motocross e pelo impacto que a tecnologia pode trazer ao mundo.<br/> Estou sempre em busca de projetos que transformem ideias em realidade e criem impacto positivo.
+Atualmente, sou participante do Curso Proa Profissões e estou em uma jornada para me tornar um profissional de destaque na área de tecnologia. <br/> Minha paixão por inovação me leva a explorar constantemente novas linguagens de programação e ferramentas tecnológicas.<br/> Já empreendi, viajei por mais de 20 estados brasileiros e amo desafios, seja na criação de soluções eficientes ou no aprendizado de algo novo.<br/> Além disso, sou apaixonado por música, motocross e pelo impacto que a tecnologia pode trazer ao mundo.<br/> Estou sempre em busca de projetos que transformem ideias em realidade e criem impacto positivo.🚀
 
 <div/>
 
