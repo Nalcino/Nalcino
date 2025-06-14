@@ -1,8 +1,7 @@
 ## Paulo Henrique Nalcino -  Full Stack Developer
 
-Sou Paulo Henrique, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor entusiasta com interesse em análise de dados.<br/>
-Saiba que você é muito bem-vindo aqui. 😊
-
+Sou Paulo Henrique, desenvolvedor de software e estudante de Análise e Desenvolvimento de Sistemas.<br/>
+Saiba que você é muito bem-vindo por aqui. 😊
 <div align="left"> 
 
 ## Sobre Mim
