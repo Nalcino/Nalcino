@@ -6,7 +6,24 @@ Saiba que você é muito bem-vindo por aqui. 😊
 
 ## Sobre Mim
   
-Atualmente, sou participante do Curso Proa Profissões e estou em uma jornada para me tornar um profissional de destaque na área de tecnologia. <br/> Minha paixão por inovação me leva a explorar constantemente novas linguagens de programação e ferramentas tecnológicas.<br/> Já empreendi, viajei por mais de 20 estados brasileiros e amo desafios, seja na criação de soluções eficientes ou no aprendizado de algo novo.<br/> Além disso, sou apaixonado por música, motocross e pelo impacto que a tecnologia pode trazer ao mundo.<br/> Estou sempre em busca de projetos que transformem ideias em realidade e criem impacto positivo.🚀
+Atualmente atuo como Engenheiro de Software no Itaú, desenvolvendo soluções escaláveis, seguras e orientadas a performance, com foco em arquitetura moderna e boas práticas de engenharia.
+
+Tenho experiência sólida em:
+
+Python para desenvolvimento de APIs, automações e microsserviços
+
+AWS, com atuação prática em serviços como Lambda, Step Functions e DynamoDB
+
+Java para aplicações robustas e orientadas a alta disponibilidade
+
+Desenvolvimento Front-end, utilizando frameworks modernos e boas práticas de UI/UX
+
+Minha paixão por tecnologia e inovação me impulsiona a explorar constantemente novas ferramentas, arquiteturas e soluções em cloud computing.
+
+Além da área técnica, já empreendi, viajei por mais de 20 estados brasileiros e amo desafios — seja criando soluções eficientes, liderando ideias ou aprendendo algo novo.
+Também sou apaixonado por música, motocross e pelo impacto transformador que a tecnologia pode gerar na vida das pessoas.
+
+Estou sempre aberto a conexões, colaborações e projetos que transformem ideias em realidade e criem impacto positivo.
 
 <div/>
 
