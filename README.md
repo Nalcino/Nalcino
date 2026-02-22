@@ -7,22 +7,15 @@ Saiba que você é muito bem-vindo por aqui. 😊
 ## Sobre Mim
   
 Atualmente atuo como Engenheiro de Software no Itaú, desenvolvendo soluções escaláveis, seguras e orientadas a performance, com foco em arquitetura moderna e boas práticas de engenharia.
-
 Tenho experiência sólida em:
-
-Python para desenvolvimento de APIs, automações e microsserviços
-
-AWS, com atuação prática em serviços como Lambda, Step Functions e DynamoDB
-
-Java para aplicações robustas e orientadas a alta disponibilidade
-
-Desenvolvimento Front-end, utilizando frameworks modernos e boas práticas de UI/UX
+- Python para desenvolvimento de APIs, automações e microsserviços
+- AWS, com atuação prática em serviços como Lambda, Step Functions e DynamoDB
+- Java para aplicações robustas e orientadas a alta disponibilidade
+- Desenvolvimento Front-end, utilizando frameworks modernos e boas práticas de UI/UX
 
 Minha paixão por tecnologia e inovação me impulsiona a explorar constantemente novas ferramentas, arquiteturas e soluções em cloud computing.
-
 Além da área técnica, já empreendi, viajei por mais de 20 estados brasileiros e amo desafios — seja criando soluções eficientes, liderando ideias ou aprendendo algo novo.
 Também sou apaixonado por música, motocross e pelo impacto transformador que a tecnologia pode gerar na vida das pessoas.
-
 Estou sempre aberto a conexões, colaborações e projetos que transformem ideias em realidade e criem impacto positivo.
 
 <div/>
